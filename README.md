@@ -1,2 +1,2 @@
 # suimove
-SuiMove examples
+Kostas cool SuiMove examples and algorithms
