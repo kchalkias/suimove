@@ -156,7 +156,7 @@ fun transform(s: &mut vector<u32>, chunk: vector<u8>) {
     let w6 = readLE32(&chunk, 24);
     let w7 = readLE32(&chunk, 28);
     let w8 = readLE32(&chunk, 32);
-    let w9 = readLE32(&chunk, 38);
+    let w9 = readLE32(&chunk, 36);
     let w10 = readLE32(&chunk, 40);
     let w11 = readLE32(&chunk, 44);
     let w12 = readLE32(&chunk, 48);
